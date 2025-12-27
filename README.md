@@ -29,7 +29,7 @@ We used Alteryx and MySQL to perform data transformations, computation, joins, a
 
 I constructed a decision tree using Bayes Theorem to determine if a fictional car company should release a new product or not.
 
-	Skills: Bayesian Probability, Decision Tree Modeling
+	Skills: Bayesian Probability, Decision Tree Modeling, Mermaid
 	Programs: RStudio
 	Downloads: AI Car Decision Tree.qmd
 
@@ -37,7 +37,7 @@ I constructed a decision tree using Bayes Theorem to determine if a fictional ca
 
 I constructed a decision tree using EMV (Expected Monetary Value) calculations to determine the best supply purchasing option for a fictional construction company.
 
-	Skills: EMV Calculations, Probability Theory, Decision Tree Modeling
+	Skills: EMV Calculations, Probability Theory, Decision Tree Modeling, Mermaid
 	Programs: RStudio
 	Downloads: Gravel Futures Decision Tree.qmd
 
@@ -66,4 +66,21 @@ I formulated and programmed an optimization model to produce the most profitable
 	Skills: Optimization Modeling, Python, Gurobi
 	Programs: Python
 	Downloads: Factory Distribution Problem.ipynb
+
+# Simulation
+
+## Bitcoin Simulation
+
+I wrote a simulation program predicting the price of Bitcoin according to an arbitrary Brownian motion term.
+
+	Skills: Visualization, Simulation, Dplyr
+	Programs: RStudio
+	Downloads: Bitcoin Simulation.qmd
 	
+## Overbooking Simulation 
+
+I wrote a simulation program finding the minimally costly number of seats to overbook for a fictional airline.
+
+	Skills: Visualization, Simulation, Dplyr
+	Programs: RStudio
+	Downloads: Overbooking Simulation.qmd
