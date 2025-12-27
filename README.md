@@ -23,12 +23,47 @@ We used Alteryx and MySQL to perform data transformations, computation, joins, a
 	Programs: Alteryx Designer, MySQL Workbench
 	Downloads: EHR Data Transformation.yxzp - import into Alteryx Designer
 
+# Decision Making
+
+## AI Car Decision Tree
+
+I constructed a decision tree using Bayes Theorem to determine if a fictional car company should release a new product or not.
+
+	Skills: Bayesian Probability, Decision Tree Modeling
+	Programs: RStudio
+	Downloads: AI Car Decision Tree.qmd
+
+## Gravel Futures Decision Tree
+
+I constructed a decision tree using EMV (Expected Monetary Value) calculations to determine the best supply purchasing option for a fictional construction company.
+
+	Skills: EMV Calculations, Probability Theory, Decision Tree Modeling
+	Programs: RStudio
+	Downloads: Gravel Futures Decision Tree.qmd
+
 # Problem Solving
 
 ## Trailer Packing Problem
 
-I formulated and programmed an optimization problem focused on packing as many pallets into as few trailers as possible.
+I formulated and programmed an optimization model to pack as many pallets into as few trailers as possible.
 
-	Skils: Optimization Modeling, Python, Gurobi
+	Skills: Optimization Modeling, Python, Gurobi
 	Programs: Python, Excel
 	Downloads: Trailer Packing Problem.ipynb, pallets.xlsx
+
+## Factory Distribution Problem
+
+I formulated and programmed an optimization model to distribute required deliveries across a small shipping network at minimum cost.
+
+	Skills: Optimization Modeling, Python, Gurobi
+	Programs: Python
+	Downloads: Factory Distribution Problem.ipynb
+
+## Product Mix Problem
+
+I formulated and programmed an optimization model to produce the most profitable mix of a given set of products.
+	
+	Skills: Optimization Modeling, Python, Gurobi
+	Programs: Python
+	Downloads: Factory Distribution Problem.ipynb
+	
